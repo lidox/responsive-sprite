@@ -1,7 +1,7 @@
 # responsive-sprite.js
 
 ### Demo
-![demo-gif](https://cloud.githubusercontent.com/assets/7879175/15245758/e4e9c576-1908-11e6-9d53-51ce3023e726.gif)
+![demo-gif](https://cloud.githubusercontent.com/assets/7879175/15247175/ac6a4d56-1912-11e6-99b0-4298263d7574.gif)
 
 ### Installation
 1. Download responsive-sprite.js
