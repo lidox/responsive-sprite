@@ -4,7 +4,7 @@
 ![demo-gif](https://cloud.githubusercontent.com/assets/7879175/15245758/e4e9c576-1908-11e6-9d53-51ce3023e726.gif)
 
 ### Installation
-1. Dowload responsive-sprite.js
+1. Download responsive-sprite.js
 
 2. Add following code to your HTML:
 ```javascript
@@ -25,7 +25,7 @@
 	</script>
 
 ```
-3. Now your HTML should contain these divs elements
+3. Now your HTML should contain these div elements
 ```HTML
 <div class="video-thumbnail2" data-thumbnail="3" data-img="/images/sprite-example.jpg"></div>
 ```
