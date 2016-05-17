@@ -1,7 +1,10 @@
 # responsive-sprite.js
 
+### Description
+Responsive-Sprite displays Video Preview Thumbnails.
+
 ### Demo
-![demo-gif](https://cloud.githubusercontent.com/assets/7879175/15247175/ac6a4d56-1912-11e6-99b0-4298263d7574.gif)
+![demo-gif](https://cloud.githubusercontent.com/assets/7879175/15327639/7667f508-1c52-11e6-886d-b79f53db8d4b.gif)
 
 ### Installation
 1. Download responsive-sprite.js
