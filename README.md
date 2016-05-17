@@ -7,7 +7,7 @@ Responsive-Sprite displays Video Preview Thumbnails.
 ![demo-gif](https://cloud.githubusercontent.com/assets/7879175/15327639/7667f508-1c52-11e6-886d-b79f53db8d4b.gif)
 
 ### Installation
-1. Download responsive-sprite.js
+1. Download [responsive-sprite.js](https://raw.githubusercontent.com/lidox/responsive-sprite/master/responsive-sprite.js)
 
 2. Add following code to your HTML:
 ```javascript
