@@ -1,4 +1,4 @@
-# responsive-sprite.js
+# responsive-sprite.js :boom:
 
 ### Description
 Responsive-Sprite displays video preview thumbnails on mouse over (hover). It's a diashow.
