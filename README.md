@@ -1,7 +1,10 @@
 # responsive-sprite.js
 
 ### Description
-Responsive-Sprite displays Video Preview Thumbnails.
+Responsive-Sprite displays video preview thumbnails on mouse over (hover). It's a diashow.
+
+How to create video preview thumbnails mouseover thumbnail viewer like videocopilot.net
+video hover preview diashow
 
 ### Demo
 ![demo-gif](https://cloud.githubusercontent.com/assets/7879175/15327639/7667f508-1c52-11e6-886d-b79f53db8d4b.gif)
