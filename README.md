@@ -11,24 +11,27 @@ Responsive-Sprite displays video preview thumbnails on mouse over (hover). It's 
 
 + Add following code to your HTML:
 ```javascript
-	<script>
-		
-		$(window).load(function(){
-			var thumbs = new VideoThumbnail();
-			
-			// configuration
-			thumbs.setThumbnailClassName('video-thumbnail2');
-			thumbs.setThumbnailCountOfSprite(4);
-			thumbs.setImageHeightInPercentage(42);
-			thumbs.setMouseMoveActive();
-			
-			thumbs.displayThumbs();	
-		});
-		
-	</script>
+    <script>
+        $( document ).ready(function() {
+            var thumbs = new VideoThumbnail();
+            thumbs.setThumbnailClassName('this-is-spartaaa');
+            thumbs.setThumbnailCountOfSprite(6);
+            thumbs.imagePaddingBottomInPercentage(100);
+            thumbs.setMouseMoveActive();
+            thumbs.displayThumbs();
+            
+            // example 2: fifty-images
+            var thumbsSecondRow = new VideoThumbnail();
+            thumbsSecondRow.setThumbnailClassName('fifty-images');
+            thumbsSecondRow.setThumbnailCountOfSprite(50);
+            thumbsSecondRow.imagePaddingBottomInPercentage(43);
+            thumbsSecondRow.setMouseMoveActive();
+            thumbsSecondRow.displayThumbs();
+        });
+    </script>
 
 ```
 + Now your HTML should contain these div elements
 ```HTML
-<div class="video-thumbnail2" data-thumbnail="3" data-img="/images/sprite-example.jpg"></div>
+<div class="this-is-spartaaa" data-defaultimgnr="5" data-img="/assets/super-sprite.jpg"></div>
 ```
